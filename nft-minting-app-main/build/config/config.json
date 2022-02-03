@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbd3ab142fb8fe33db842e7dbb1e91f4e2841c8521afcbc1a74f1da93d7d4a683",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xbd3ab142fb8fe33db842e7dbb1e91f4e2841c8521afcbc1a74f1da93d7d4a683",
+  "NETWORK": {
+    "NAME": "",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Galerie Dogs",
+  "SYMBOL": "Galerie Dog",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": ".4",
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/galerie-dogs",
+  "SHOW_BACKGROUND": false
+}
